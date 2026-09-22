@@ -8,5 +8,15 @@
     "days": 3,
     "turns": 457,
     "page": "logs/asc49.html"
+  },
+  {
+    "ascension": 46,
+    "character": "COwliCK",
+    "difficulty": "Hardcore",
+    "path": "No-Path",
+    "class": "Seal Clubber",
+    "days": 4,
+    "turns": 901,
+    "page": "logs/asc46.html"
   }
 ]
